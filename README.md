@@ -1,17 +1,25 @@
-## STAT545 Homework 1 repo
+## STAT545 Homework 1 Repository
 
-Hi! My name is Rike and I'm doing a Master's in Neuroscience! 
+Hi! 
 
-This repo contains my homework 1 for [STAT 545](http://stat545.com/).
+My name is Rike and I'm doing a Master's in Neuroscience!
 
-Here are the [instructions](https://github.com/STAT545-UBC-students/hw01-fjbasedow/blob/master/hw01_instructions.md) for this homework.
+This is how neurons look like:
 
-Homework 1 contains of two parts:
+![](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.48DyYjeZa9n3JgnAfVWzMAHaFt%26pid%3D15.1&f=1)
+
+This fall I am taking [STAT545](http://stat545.com/) and this repo contains my first homework for this class. 
+
+[Here](https://github.com/STAT545-UBC-students/hw01-fjbasedow/blob/master/hw01_instructions.md) are the instructions for this homework.
+
+It consists of two parts:
 * to fill this README.md
 * to explore a data set
 
-For the data exploration I used the `Titanic` data set, which contains data of the survival of passengers on the Titanic. :ship:
-My analysis can be found [here](https://github.com/STAT545-UBC-students/hw01-fjbasedow/blob/master/Data%20exploration/HW01-Titanic_exploration.md).
+For the data exploration part I used the `Titanic` data set from R Studio, which contains data of the survival of passengers on the Titanic. :ship: 
+My analysis can be found in the [Data exploration folder](https://github.com/STAT545-UBC-students/hw01-fjbasedow/tree/master/Data%20exploration) or here is a direct link to the [md file](https://github.com/STAT545-UBC-students/hw01-fjbasedow/blob/master/Data%20exploration/HW01-Titanic_exploration.md).
+
+:v:
 
 
 
